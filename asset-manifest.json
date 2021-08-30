@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/avmancillas/Portfolio/static/css/main.348374ed.chunk.css",
+    "main.js": "/avmancillas/Portfolio/static/js/main.35d9690b.chunk.js",
+    "main.js.map": "/avmancillas/Portfolio/static/js/main.35d9690b.chunk.js.map",
+    "runtime-main.js": "/avmancillas/Portfolio/static/js/runtime-main.bfcd2228.js",
+    "runtime-main.js.map": "/avmancillas/Portfolio/static/js/runtime-main.bfcd2228.js.map",
+    "static/js/2.07a256ad.chunk.js": "/avmancillas/Portfolio/static/js/2.07a256ad.chunk.js",
+    "static/js/2.07a256ad.chunk.js.map": "/avmancillas/Portfolio/static/js/2.07a256ad.chunk.js.map",
+    "index.html": "/avmancillas/Portfolio/index.html",
+    "static/css/main.348374ed.chunk.css.map": "/avmancillas/Portfolio/static/css/main.348374ed.chunk.css.map",
+    "static/js/2.07a256ad.chunk.js.LICENSE.txt": "/avmancillas/Portfolio/static/js/2.07a256ad.chunk.js.LICENSE.txt",
+    "static/media/Screenshot3.a2a78edf.png": "/avmancillas/Portfolio/static/media/Screenshot3.a2a78edf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfcd2228.js",
+    "static/js/2.07a256ad.chunk.js",
+    "static/css/main.348374ed.chunk.css",
+    "static/js/main.35d9690b.chunk.js"
+  ]
+}
