@@ -1,0 +1,108 @@
+.title {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 100px;
+    font-weight: 300px;
+   }
+   
+   .card-title {
+    font-family: 'Montserrat', sans-serif;
+     text-transform: uppercase;
+   }
+   
+   .rounded {
+     border-top: 8px ;
+     border-radius: 5px;
+   }
+   
+   .aboutText {
+    font-family: 'Montserrat', sans-serif;
+     text-transform: uppercase;
+     text-align: center;
+     font-size: 11px;
+     margin-right: 10%;
+   }
+   
+   .card {
+     margin: 5px;
+     padding: 0;
+   }
+   
+   .thePlugSelect {
+     position: relative;
+     margin-bottom: 50px;
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+     z-index: 1;
+     border-radius: 15px;
+     -webkit-box-shadow: 0 0.25rem 1rem 0 rgba(47, 91, 234, 0.125);
+     box-shadow: 0 0.25rem 1rem 0 rgba(47, 91, 234, 0.125);
+     margin-left: 70px;
+     margin-right: 70px;
+   }
+   
+  
+   
+  
+   
+   @media only screen and (max-width: 575px) {
+     .thePlugSelect .teamImage::after {
+       height: 160px;
+       bottom: -90px;
+     }
+   }
+
+   
+   .gitBtns a{
+     text-decoration: underline;
+     color: darkcyan;
+   }
+ 
+   .thePlugSelect .Info {
+     position: relative;
+     z-index: 1;
+     padding: 30px;
+     text-align: right;
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+     border-radius: 0 0 15px 15px;
+     background-color: #ffffff;
+     font-family: 'Work Sans', sans-serif;
+     text-transform: uppercase;
+     text-align: center;
+   }
+   
+   .thePlugSelect .Info::after {
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+     position: absolute;
+     z-index: 1;
+     width: 50px;
+     height: 3px;
+     background-color: black;
+     content: "";
+     top: 12px;
+     right: 30px;
+   }
+   
+   .thePlugSelect .Info h6 {
+     margin-bottom: 0.25rem;
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+     font-size: 20px;
+   }
+   
+   @media only screen and (min-width: 768px) and (max-width: 991px) {
+     .thePlugSelect .Info h6 {
+       font-size: 14px;
+     }
+   }
+   
+   .thePlugSelect .Info p {
+     -webkit-transition-duration: 500ms;
+     transition-duration: 500ms;
+     margin-bottom: 0;
+     font-size: 14px;
+   }
+   
+   
